@@ -22,6 +22,7 @@ packages:
     - openssl-devel
     - xz
     - xz-devel
+    - make
   Debian:
     - git
     - build-essential
